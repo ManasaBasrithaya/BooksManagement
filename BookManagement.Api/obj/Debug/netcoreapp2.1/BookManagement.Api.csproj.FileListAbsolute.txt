@@ -1,0 +1,17 @@
+E:\Demo\Dotnet\BookManagement.Api\BookManagement.Api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\Demo\Dotnet\BookManagement.Api\BookManagement.Api\bin\Debug\netcoreapp2.1\appsettings.json
+E:\Demo\Dotnet\BookManagement.Api\BookManagement.Api\bin\Debug\netcoreapp2.1\BookManagement.Api.deps.json
+E:\Demo\Dotnet\BookManagement.Api\BookManagement.Api\bin\Debug\netcoreapp2.1\BookManagement.Api.runtimeconfig.json
+E:\Demo\Dotnet\BookManagement.Api\BookManagement.Api\bin\Debug\netcoreapp2.1\BookManagement.Api.runtimeconfig.dev.json
+E:\Demo\Dotnet\BookManagement.Api\BookManagement.Api\bin\Debug\netcoreapp2.1\BookManagement.Api.dll
+E:\Demo\Dotnet\BookManagement.Api\BookManagement.Api\bin\Debug\netcoreapp2.1\BookManagement.Api.pdb
+E:\Demo\Dotnet\BookManagement.Api\BookManagement.Api\obj\Debug\netcoreapp2.1\BookManagement.Api.csprojAssemblyReference.cache
+E:\Demo\Dotnet\BookManagement.Api\BookManagement.Api\obj\Debug\netcoreapp2.1\BookManagement.Api.AssemblyInfoInputs.cache
+E:\Demo\Dotnet\BookManagement.Api\BookManagement.Api\obj\Debug\netcoreapp2.1\BookManagement.Api.AssemblyInfo.cs
+E:\Demo\Dotnet\BookManagement.Api\BookManagement.Api\obj\Debug\netcoreapp2.1\BookManagement.Api.csproj.CoreCompileInputs.cache
+E:\Demo\Dotnet\BookManagement.Api\BookManagement.Api\obj\Debug\netcoreapp2.1\BookManagement.Api.RazorAssemblyInfo.cache
+E:\Demo\Dotnet\BookManagement.Api\BookManagement.Api\obj\Debug\netcoreapp2.1\BookManagement.Api.RazorAssemblyInfo.cs
+E:\Demo\Dotnet\BookManagement.Api\BookManagement.Api\obj\Debug\netcoreapp2.1\BookManagement.Api.RazorTargetAssemblyInfo.cache
+E:\Demo\Dotnet\BookManagement.Api\BookManagement.Api\obj\Debug\netcoreapp2.1\BookManagement.Api.dll
+E:\Demo\Dotnet\BookManagement.Api\BookManagement.Api\obj\Debug\netcoreapp2.1\BookManagement.Api.pdb
+E:\Demo\Dotnet\BookManagement.Api\BookManagement.Api\obj\Debug\netcoreapp2.1\BookManagement.Api.genruntimeconfig.cache
